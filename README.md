@@ -37,12 +37,6 @@ glaucoma_model_trained.h5: ไฟล์โมเดลที่ผ่านก�
 
 💻 วิธีการติดตั้งและใช้งาน (Installation & Usage)
 
-Clone โปรเจกต์นี้
-
-git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/glaucoma-ai-screening.git
-cd glaucoma-ai-screening
-
-
 ติดตั้ง Libraries ที่จำเป็น
 
 pip install tensorflow streamlit opencv-python matplotlib seaborn scikit-learn
